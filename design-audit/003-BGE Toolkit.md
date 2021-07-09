@@ -11,7 +11,7 @@ Tool Link: N/A
 
 BGE Benchmarking Tool is a Scottish Government toolkit which enables headteachers and local authority officers to consider school data in relation to national comparator schools. It works based on the impact of pupil characteristics including SIMD, Gender, FSM, Ethnicity, EAL, Gaelic Medium, Denomination and Urban/Rural.
 
-The BGE Benchmarking tool contains national, local authority and school-level data that have been provided by schools, via local authorities, in the Achievement of CfE Levels and Pupil Census data collection returns. This has been data disclosed to protect the identity of individual children. The Tool is provided to assist colleagues in the delivery of their professional duties. To prevent any misuse of the data it contains access should be on a strictly need-to-know basis.
+The BGE Benchmarking tool contains national, local authority and school-level data that have been provided by schools, via local authorities, in the **Achievement of CfE Levels** and **Pupil Census** data collection returns. This has been data disclosed to protect the identity of individual children. The Tool is provided to assist colleagues in the delivery of their professional duties. To prevent any misuse of the data it contains access should be on a strictly need-to-know basis.
 
 ### Objective
 
