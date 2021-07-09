@@ -15,7 +15,7 @@ SIMD is a tool for identifying the places in Scotland where people are experienc
 
 The applications of SIMD enables communities to highlight the things that matter to them, and identify opportunities to improve the lives of local people. SIMD can also be useful to describe the general areas where people live and some of the challenges that they face there. It aims to create an understanding within the communities about local assets and aspirations and how one can better engage with them for more successful and sustainable community regeneration - to everyone's benefit.
 
-## Fetatures
+## Features
 
 SIMD shows a relative measure of deprivation across small areas in Scotland by looking at multiple reasons for deprivation.
 
