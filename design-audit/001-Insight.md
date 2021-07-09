@@ -5,7 +5,7 @@
 
 ![](https://lh6.googleusercontent.com/NZSXgOCj2psGwrhCcFYY1uGUbECrN5-U7ZJlxvS3rtKNm4E-_I_pRcNb6_Bpd6a135v2sIoOfbL7bP0KIbC_oZgql0sp7Th7da5c1uw3KZ9ZwMbwB782TKoTGjGbX0r0noMu-4By)
 
-Tool Link:[Click Here](https://insight.scotxed.net/)
+Tool Link: [Click Here](https://insight.scotxed.net/)
 
 ## About Tool
 
