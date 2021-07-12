@@ -106,7 +106,7 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ## Error prevention
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
     
 
 ## Recognition rather than recall
@@ -133,7 +133,7 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ## Help users recognize, diagnose, and recover from errors
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
     
 
 ## Help and documentation
