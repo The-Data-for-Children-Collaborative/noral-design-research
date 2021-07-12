@@ -82,11 +82,11 @@ Our methodology for performing a design audit exercise involves analyzing all th
  
 # Error prevention
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
 
 # Recognition rather than recall
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
    
 # Flexibility and efficiency of use
 
@@ -107,4 +107,4 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ## Help and documentation
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
