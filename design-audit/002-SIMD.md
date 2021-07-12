@@ -32,7 +32,7 @@ Detailed information on the various measures can be found [here](https://www.gov
 
 # Methodology
 
-Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. A detailed documentation of Design Audit Methodology can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/000%20Methodology.md).
+Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. A detailed documentation of Design Audit Methodology can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/000-methodology.md).
 
 # What Users Say
 
