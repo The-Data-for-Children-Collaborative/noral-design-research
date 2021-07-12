@@ -72,7 +72,7 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ### Match between system and the real world
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
     
 ### User control and freedom
 
@@ -82,11 +82,11 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ### Consistency and standards
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
 
 ### Error prevention
 
--   Null
+-   Couldn't evaluate due to limited access to tool & information.
     
 ### Recognition rather than recall
 
@@ -117,4 +117,4 @@ Our methodology for performing a design audit exercise involves analyzing all th
 
 ### Help and documentation
 
--  Null
+-  Couldn't evaluate due to limited access to tool & information.
