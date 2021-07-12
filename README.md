@@ -9,8 +9,6 @@ To learn more about the project, check out the master repository [here](https://
 root
   └── _contribute/
   └── design-audit/
-  └── heuristic-evaluation/
-  └── feature-feedback/
   └── LICENSE.md
   └── README.md
 ```
