@@ -76,6 +76,4 @@ The Design Audit of existing platforms/tools is one part of a whole User Researc
 
 -   [Design Audits](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/tree/main/design-audit)
 -   [Design Research](https://github.com/The-Data-for-Children-Collaborative/noral-design-research)
--   [About Project](https://www.dataforchildrencollaborative.com/challenge-questions/icpov02-)
--   [Project Repository](https://github.com/The-Data-for-Children-Collaborative/noral-project)
 -   [Project Repository](https://github.com/The-Data-for-Children-Collaborative/noral-project)
