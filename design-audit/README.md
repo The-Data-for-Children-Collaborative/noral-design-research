@@ -66,7 +66,7 @@ The Design Audit of existing platforms/tools is one part of a whole User Researc
 
 -   To consider all usability issues while designing the Wireframes and Visual Designs.
 -   To include the insights drawn from the user preferences into the User Journey Mapping.
--   To place the recommended features appropriately into the MoSCow Prioritization Mapping
+-   To place the recommended features appropriately into the Wireframes and Visual Designs.
     
 ## Resources
 
