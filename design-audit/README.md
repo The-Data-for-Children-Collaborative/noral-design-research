@@ -1,13 +1,17 @@
-# Design Audit - Consolidation
-> Key Observations
+# Design Audit
+> Key observations from a comprehensive audit of the existing tool landscape.
 
 ## Background
 
 The Scottish Government’s ambition is for Scotland to be the best place to grow up. To achieve that it is required to raise attainment and reduce educational inequity for all of Scotland’s children and young people. The Scottish education system works well for most children and young people, who make good progress in their learning. However, there is still a gap between the least and most deprived areas in terms of attainment and socioeconomic status.
 
 The data and the tools are driven by data play a key role to help the Scottish education system identify, understand, and achieve this larger goal of reducing the attainment and socioeconomics gap. These available tools are used by major stakeholders and assist them to create a better school improvement framework and also support them to give the contextual analysis.
-  
-## Design Audit
+
+# Methodology
+
+Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. Detailed documentation of the Design Audit Methodology can be found [here](_methodology.md).
+
+## Tools Reviewed
 
 Design audits played a significant role in the process of solving a larger problem focusing on improving education and reducing the poverty-related attainment gap in Scotland. These design audits gave us various insights into the users' expectations, their ways of interaction with tools, and in evaluating these tools as per general design standards. As a part of design audit exercise CivicDataLab performed the evaluation for all five tools mentioned below:  
 
@@ -19,11 +23,7 @@ Design audits played a significant role in the process of solving a larger probl
  
 This report summarizes the key observations and divided them into three main buckets i.e. **Usability Issues**, **User Preferences** & **Feature Requests**.
 
-# Methodology
-
-Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. Detailed documentation of the Design Audit Methodology can be found [here](_methodology.md).
-
-# Design Audit - Consolidation
+# Summary
 
 ## Usability Issues
 
