@@ -1,9 +1,5 @@
-
 # Design Audit - Consolidation
 > Key Observations
-
-
-  
 
 ## Background
 
@@ -15,17 +11,17 @@ The data and the tools are driven by data play a key role to help the Scottish e
 
 Design audits played a significant role in the process of solving a larger problem focusing on improving education and reducing the poverty-related attainment gap in Scotland. These design audits gave us various insights into the users' expectations, their ways of interaction with tools, and in evaluating these tools as per general design standards. As a part of design audit exercise CivicDataLab performed the evaluation for all five tools mentioned below:  
 
-1.  [Insight](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/001-Insight.md)
-2.  [SIMD](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/002-SIMD.md)
-3.  [BGE Tool Kit](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/003-BGE-Toolkit.md)
-4.  [NIF Interactive Evidence Report](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/004-NIF-Interactive-Evidence-Report.md)
-5.  [SEEMiS](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/005-SEEMiS.md)
+1.  [Insight](tools/001-Insight.md)
+2.  [SIMD](tools/002-SIMD.md)
+3.  [BGE Tool Kit](tools/003-BGE-Toolkit.md)
+4.  [NIF Interactive Evidence Report](tools/004-NIF-Interactive-Evidence-Report.md)
+5.  [SEEMiS](tools/005-SEEMiS.md)
  
 This report summarizes the key observations and divided them into three main buckets i.e. **Usability Issues**, **User Preferences** & **Feature Requests**.
 
 # Methodology
 
-Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. Detailed documentation of the Design Audit Methodology can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/000-methodology.md).
+Our methodology for performing a design audit exercise involves analyzing all the design elements used across a digital platform/tool in order to ensure the usability measures branding is consistent across the channel. Detailed documentation of the Design Audit Methodology can be found [here](_methodology.md).
 
 # Design Audit - Consolidation
 

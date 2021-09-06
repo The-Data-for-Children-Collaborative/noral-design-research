@@ -1,4 +1,3 @@
-
 # Design Audit Methodology
 
 ## Design Audit
@@ -23,7 +22,6 @@ At its core, a design audit requires assessing all forms of visual, written, and
 -   Social Media
 -   Ads, etc.  
     
-
 If we are conducting the design audit specifically for any tool or platform focusing mainly on their usability, then we must have access or understanding of all the points mentioned below:  
 
 -   Access to the tool/platform
@@ -102,8 +100,8 @@ One comprehensive document including various findings in detail with next steps 
 
 ## Sample
 
-A detailed Design Audit for an existing tool can be found [here](https://docs.google.com/document/d/1HFrnfv7igMRNZEkGXcdU8MFGwZLsXP-PSLNFpXdhWJw/edit#).
+A detailed Design Audit for an existing tool can be found [here](tools/001.Insight.md).
 
 ## Template Document
 
-An empty document for Design Audit can be found [here](https://docs.google.com/document/d/1Lf7kXMUq_jeO1WhIrIMqf9GWV42Pj05W9n9vo8ElinM/edit).
+An empty template for Design Audit can be found [here](_template.md).
