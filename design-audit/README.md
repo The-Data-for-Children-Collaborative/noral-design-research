@@ -36,8 +36,7 @@ This report summarizes the key observations and divided them into three main buc
 
 ## User Preferences
 
-To have a range of databases in one place helps to have a bird-eye view of the landscape. More preferable if the data are broken down nicely into different levels to create an understanding for individual settings.
-
+-   To have a range of databases in one place helps to have a bird-eye view of the landscape. More preferable if the data are broken down nicely into different levels to create an understanding for individual settings.
 -   Collect more granular level data to create an impact on school-level settings. Comparatively less skewed granular data helps in better comparison between same-level settings, further analysis, and validations.
 -   The data needs to be updated on a regular basis.
 -   The platform should not be limited to the applications of a data-driven platform but also generate data stories around the information like Leavers Destinations, Attainment Gaps, Pupils Additional Needs, etc.
