@@ -100,7 +100,7 @@ One comprehensive document including various findings in detail with next steps 
 
 ## Sample
 
-A detailed Design Audit for an existing tool can be found [here](tools/001.Insight.md).
+A detailed Design Audit for an existing tool can be found [here](tools/001-Insight.md).
 
 ## Template Document
 
