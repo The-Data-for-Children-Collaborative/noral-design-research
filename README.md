@@ -8,6 +8,7 @@ To learn more about the project, check out the master repository [here](https://
 ```
 root
   └── _contribute/
+  └── blueprint/
   └── design-audit/
     └── tools/
   └── LICENSE.md
