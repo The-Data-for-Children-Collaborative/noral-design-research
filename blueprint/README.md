@@ -28,7 +28,7 @@ Advantages of Comparative Analysis:
 
 ![](https://lh5.googleusercontent.com/GWz0sdX2C_TyKZYrTziJCskESscgvtSz6tkk7RZfqR0_ezhlKeXgtsn2JfwifUDLee55p0gBGNXV53W_T4-JPkwuKC0sBro1z5KLLoNNAVCYiqX4e0QHMt4wLrLmgthAHUY29F0)
 
-**Result** -  Comparative  Analysis of Existing Landscape solution can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/blueprint/Comparative%20Analysis/comparative-analysis.pdf)
+**Result** -  Comparative  Analysis of Existing Landscape solution can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/blueprint/Comparative%20Analysis/comparative-analysis.png)
 
 By conducting Comparative analysis and Design Audit of the existing platforms we derived feature level comparison of what the existing platforms has to offer. Analysis was done on common feature to feature comparison keeping in mind the most important and necessary features that are used by the users. These exercises helped us understand the following questions:
 
